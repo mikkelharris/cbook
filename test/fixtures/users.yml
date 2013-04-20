@@ -3,3 +3,9 @@ mikkel:
   last_name: "Harris"
   email: "mikkel.harris@gmail.com"
   profile_name: "mikkelharris"
+
+nick:
+  first_name: "Nick"
+  last_name: "McGuire"
+  email: "nick@gmail.com"
+  profile_name: "nickmcguire"
