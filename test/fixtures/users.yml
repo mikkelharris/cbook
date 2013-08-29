@@ -1,11 +1,17 @@
-mikkel:
-  first_name: "Mikkel"
-  last_name: "Harris"
-  email: "mikkel.harris@gmail.com"
-  profile_name: "mikkelharris"
+jason:
+  first_name: "Jason"
+  last_name: "Seifer"
+  email: "jason@teamtreehouse.com"
+  profile_name: "jasonseifer"
 
-nick:
-  first_name: "Nick"
-  last_name: "McGuire"
-  email: "nick@gmail.com"
-  profile_name: "nickmcguire"
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jimhoskins"
+
+mike:
+  first_name: "Mike"
+  last_name: "The Frog"
+  email: "mike@teamtreehouse.com"
+  profile_name: "mikethefrog"

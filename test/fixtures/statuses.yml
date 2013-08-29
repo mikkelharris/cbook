@@ -2,12 +2,12 @@
 
 one:
   content: MyText
-  user: mikkel
+  user: jason
 
 two:
   content: MyText
-  user: mikkel
+  user: jason
 
 three:
-  content: "Hi this is nick"
-  user: nick
+  content: My status
+  user: jim
